@@ -1,0 +1,6 @@
+## Interface: 11302
+## Title: DPS - Doriana`s pwning schedule
+## Author: Doriana the buttered
+## Version: 1.0
+
+main.lua
